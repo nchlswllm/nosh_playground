@@ -15,7 +15,7 @@ const Home: NextPage = () => {
                         NOSH <span className="text-[hsl(280,100%,70%)]">MAGAZINE</span>
                     </h1>
                     <div>
-                        something is printed!!!
+                        LOL 
                     </div>
                 </div>
             </main>

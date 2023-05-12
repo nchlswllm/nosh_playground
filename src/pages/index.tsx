@@ -1,5 +1,6 @@
 import { type NextPage } from "next";
 import Head from "next/head";
+import styles from "./index.module.css"
 
 const Home: NextPage = () => {
     return (
@@ -14,7 +15,7 @@ const Home: NextPage = () => {
                     <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
                         NOSH <span className="text-[hsl(280,100%,70%)]">MAGAZINE</span>
                     </h1>
-                    <div>
+                    <div className={styles.customclass}>
                         LOL 
                     </div>
                 </div>

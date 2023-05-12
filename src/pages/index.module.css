@@ -1,0 +1,3 @@
+.customclass {
+    @apply text-[#fc6c50] bg-slate-50 rounded-full px-3 hover:bg-slate-500
+}
